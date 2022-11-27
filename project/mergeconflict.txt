@@ -2,3 +2,8 @@ Hello
 I am creating a merge conflict file
 I need you to resolve this
 After you resolve this say I have resolved this.
+
+
+
+
+Reply: I have resolved the issue
