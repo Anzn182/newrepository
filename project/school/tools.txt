@@ -1,0 +1,11 @@
+CPU
+Monitor
+mouse 
+keyboard
+mouse pad
+speakers
+controllers
+pen
+pencil
+hammer
+screw
