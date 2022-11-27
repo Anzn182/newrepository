@@ -1,4 +1,4 @@
-salt
+salt and pepper go well with steak.
 pepper
 rice
 chicken
@@ -16,4 +16,3 @@ tomato
 chilly powder
 flour
 eggs
-
